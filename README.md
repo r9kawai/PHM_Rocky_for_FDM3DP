@@ -4,7 +4,7 @@
 This is a redesign of Project Hail Mary's Rocky action figure for use with FDM 3D printers.  
 It's designed to be easily printed.  
 
-[![Youtube](https://youtube.com/IL4gbXQQ_II/sddefault.jpg)](https://youtu.be/IL4gbXQQ_II)
+[![Youtube](https://img.youtube.com/vi/IL4gbXQQ_II/0.jpg)](https://youtu.be/IL4gbXQQ_II)
 
 球体関節部分にだけサポート材をマニュアルで追加してください。  
 Please manually add support material only to the ball joint area.  
